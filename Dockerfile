@@ -1,4 +1,4 @@
-# Need at least Ubuntu 14.04 to get libc_nano in libnewlib-arm-none-eabi
+# Need at least Ubuntu 14.10 to get libc_nano in libnewlib-arm-none-eabi
 FROM ubuntu:15.04
 
 # Install pre-requisites
